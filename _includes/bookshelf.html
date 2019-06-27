@@ -1,0 +1,109 @@
+<div class="user-details">
+  <h1> Bookshelf </h1>
+</div>
+
+
+<div class="shelf read">
+  <ul class="books clearfix">
+    {% for item in (site.data.bookshelf-read reversed) %}
+    <li id="{{ item.title | replace: ' ','_' }}" class="book">
+      <img class="front" src="/assets/img/{{ item.image }}" alt="{{ item.title }}">
+      <div class="back">
+        <div class="p10">
+          <div class="rating star-{{ item.amazon-rating | round }}">
+            <ol>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+            </ol>
+          </div>
+          <dl>
+            <dt>Title:</dt>
+            <dd>{{ item.title }}</dd>
+            <dt>Author:</dt>
+            <dd>{{ item.author }}</dd>
+            <dt>Released:</dt>
+            <dd>{{ item.release-date }}</dd>
+          </dl>
+          <p class="description">
+            {{ item.description  | truncatewords: 20}}
+          </p>
+          <a href="{{item.link}}" target="_blank">Amazon Link</a>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+<div class="shelf reading">
+  <ul class="books clearfix">
+    {% for item in (site.data.bookshelf-reading reversed) %}
+    <li id="{{ item.title | replace: ' ','_' }}" class="book">
+      <img class="front" src="/assets/img/{{ item.image }}" alt="{{ item.title }}">
+      <div class="back">
+        <div class="p10">
+          <div class="rating star-{{ item.amazon-rating | round }}">
+            <ol>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+            </ol>
+          </div>
+          <dl>
+            <dt>Title:</dt>
+            <dd>{{ item.title }}</dd>
+            <dt>Author:</dt>
+            <dd>{{ item.author }}</dd>
+            <dt>Released:</dt>
+            <dd>{{ item.release-date }}</dd>
+          </dl>
+          <p class="description">
+            {{ item.description | truncatewords: 20}}
+          </p>
+          <a href="{{item.link}}" target="_blank">Amazon Link</a>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="shelf ondeck">
+  <ul class="books clearfix">
+    {% for item in (site.data.bookshelf-ondeck reversed) %}
+    <li id="{{ item.title | replace: ' ','_' }}" class="book">
+      <img class="front" src="/assets/img/{{ item.image }}" alt="{{ item.title }}">
+      <div class="back">
+        <div class="p10">
+          <div class="rating star-{{ item.amazon-rating | round }}">
+            <ol>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+              <li>✰</li>
+            </ol>
+          </div>
+          <dl>
+            <dt>Title:</dt>
+            <dd>{{ item.title }}</dd>
+            <dt>Author:</dt>
+            <dd>{{ item.author }}</dd>
+            <dt>Released:</dt>
+            <dd>{{ item.release-date }}</dd>
+          </dl>
+          <p class="description">
+            {{ item.description | truncatewords: 20}}
+          </p>
+          <a href="{{item.link}}" target="_blank">Amazon Link</a>
+        </div>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
