@@ -1,7 +1,14 @@
-- title: Code Complete
-  author: Steve McConnell
-  link: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=fa6efb6aa9777ccbcb2a9da48fcc11e1&language=en_US
-  description: Widely considered one of the best practical guides to programming, this book llustrates the art and science of software construction.
-  amazon-rating: 4.6
-  image: code_complete.jpg
-  release-date: June 19, 2004
+- title: Coders
+  author: Clive Thompson
+  link: https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565/ref=as_li_ss_tl?keywords=clean+coder&qid=1561475458&s=books&sr=1-9&linkCode=ll1&tag=mainstringarg-20&linkId=a9db45e07cc3097a593c63a3d4dc0d3c&language=en_US
+  description: Facebook's algorithms shaping the news. Self-driving cars roaming the streets. Revolution on Twitter and romance on Tinder. We live in a world constructed of code--and coders are the ones who built it for us.
+  amazon-rating: 3.9
+  image: coders.jpg
+  release-date: March 26, 2019
+- title: Designing Data-Intensive Applications
+  author: Martin Kleppmann
+  link: https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=as_li_ss_tl?crid=2J0BUT3XUW5BX&keywords=streaming+systems&qid=1561728107&s=books&sprefix=Streaming+Systems,stripbooks,156&sr=1-2&linkCode=ll1&tag=mainstringarg-20&linkId=f07f59f79a517afbf479cd3642e61c3a&language=en_US
+  description: Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational databases, NoSQL datastores, stream or batch processors, and message brokers. What are the right choices for your application?
+  amazon-rating: 4.7
+  image: designing_data_intensive_applications.jpg
+  release-date: April 2, 2017

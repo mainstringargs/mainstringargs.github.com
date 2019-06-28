@@ -1,7 +1,7 @@
-- title: Code Complete
-  author: Steve McConnell
-  link: https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=fa6efb6aa9777ccbcb2a9da48fcc11e1&language=en_US
-  description: Widely considered one of the best practical guides to programming, this book llustrates the art and science of software construction.
-  amazon-rating: 4.6
-  image: code_complete.jpg
-  release-date: June 19, 2004
+- title: Tim Cook
+  author: Leander Kahney
+  link: https://www.amazon.com/gp/product/B07FLVCT2J/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=ll1&tag=mainstringarg-20&linkId=79ff592e9a03c9b88c38f6ff353526c6&language=en_US
+  description: The death of Steve Jobs left a gaping void at one of the most innovative companies of all time. Jobs wasn't merely Apple's iconic founder and CEO;
+  amazon-rating: 3.4
+  image: tim_cook.jpg
+  release-date: April 16, 2019
