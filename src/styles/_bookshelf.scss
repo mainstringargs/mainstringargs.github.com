@@ -185,6 +185,7 @@ a:hover {
   justify-content: flex-start;
   height: 420px;
    z-index: 1;
+
 }
 
 
@@ -204,14 +205,14 @@ a:hover {
     float: left;
     width: 200px;
     height: auto;
-    margin-left: -90px;
+    margin-left: -70px;
     overflow: hidden;
     position: relative;
-    -webkit-transform: perspective(500px) rotateY(42deg) scale(0.9);
-    -moz-transform: perspective(500px) rotateY(42deg) scale(0.9);
-    -ms-transform: perspective(500px) rotateY(42deg) scale(0.9);
-    -o-transform: perspective(500px) rotateY(42deg) scale(0.9);
-    transform: perspective(500px) rotateY(42deg) scale(0.9);
+    -webkit-transform: perspective(500px) rotateY(22deg) scale(0.9);
+    -moz-transform: perspective(500px) rotateY(22deg) scale(0.9);
+    -ms-transform: perspective(500px) rotateY(22deg) scale(0.9);
+    -o-transform: perspective(500px) rotateY(22deg) scale(0.9);
+    transform: perspective(500px) rotateY(22deg) scale(0.9);
     -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
     -o-transition: all 0.2s ease;
