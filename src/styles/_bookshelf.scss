@@ -307,60 +307,49 @@ a:hover {
     margin: 0;
 }
 
-.rating ol {
-    font-size: 20px;
-    margin: 0;
-    padding: 0;
+.score {
+   margin-bottom: 5px;
+  display: inline-block;
+
+  font-size: 30px;
+  color: #ccc;
+  position: relative;
+  text-shadow: 0px 0px 4px #FFF;
+  letter-spacing: 10px;
+  padding-left: 15px;
+  padding-bottom: 0px;
+}
+.score::before,
+.score span::before{
+  content: "✰✰✰✰✰";
+  display: block;
+}
+.score span {
+  color: #E6DB74;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  padding-left: 15px;
+  padding-bottom: 0px;
 }
 
-.rating li {
-    padding: 0;
-    list-style: none;
-    float: left;
-    width: 20%;
-    margin-bottom: 5px;
-    text-align: center;
-    box-shadow: 0;
-    color: rgba(255,255,255,0.4);
-}
-/* Always color the first */
-.rating ol li:first-child {
-    color: #E6DB74;
-    text-shadow: 0px 0px 4px #FFF;
-}
-/* First + second */
-.star-2 li:nth-child(2) {
-    color: #E6DB74;
-    text-shadow: 0px 0px 4px #FFF;
-}
-/* First + second and third */
-.star-3 li:nth-child(2),
-.star-3 li:nth-child(3) {
-    color: #E6DB74;
-    text-shadow: 0px 0px 4px #FFF;
-}
-
-/* all, but the last */
-.star-4 li {
-    color: #E6DB74;
-    text-shadow: 0px 0px 4px #FFF;
-}
-.star-4 li:last-child {
-    color: rgba(255,255,255,0.7);
-    text-shadow: none;
-}
-/* ALL */
-.star-5 li {
-    color: #E6DB74;
-    text-shadow: 0px 0px 4px #FFF;
+.p0 {
+    padding: 0px;
 }
 
 .p10 {
-    padding: 10px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px;
 }
+
 
 .description {
     font-size: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .back a {
