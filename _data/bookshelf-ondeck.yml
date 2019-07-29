@@ -5,6 +5,13 @@
   amazon-rating: 3.9
   image: coders.jpg
   release-date: March 26, 2019
+- title: Einstein - His Life and Universe
+  author: Walter Isaacson
+  link: https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/0743264746/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=1041725672a5fe07e7e4999012ba805b&language=en_US
+  description: How did his mind work? What made him a genius? Isaacson’s biography shows how his scientific imagination sprang from the rebellious nature of his personality. His fascinating story is a testament to the connection between creativity and freedom.
+  amazon-rating: 4.6
+  image: einstein.jpg
+  release-date: May 13, 2008
 - title: Designing Data-Intensive Applications
   author: Martin Kleppmann
   link: https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=as_li_ss_tl?crid=2J0BUT3XUW5BX&keywords=streaming+systems&qid=1561728107&s=books&sprefix=Streaming+Systems,stripbooks,156&sr=1-2&linkCode=ll1&tag=mainstringarg-20&linkId=f07f59f79a517afbf479cd3642e61c3a&language=en_US
