@@ -40,6 +40,13 @@
   image: the_phoenix_project.jpg
   amazon-rating: 4.7
   release-date: January 10, 2013
+- title: Tools of Titans
+  author: Tim Ferriss
+  link: https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/ref=as_li_ss_tl?keywords=Tools+of+Titans&qid=1564692438&s=books&sr=1-1&linkCode=ll1&tag=mainstringarg-20&linkId=45404cdf4635ee4319917d4afae20bde&language=en_US
+  description: This book contains the distilled tools, tactics, and ‘inside baseball’ you won’t find anywhere else. It also includes new tips from past guests, and life lessons from new ‘guests’ you haven’t met.
+  image: tools_of_titans.jpg
+  amazon-rating: 4.6
+  release-date: December 6, 2016
 - title: Developer Hegemony
   author: Erik Dietrich
   link: https://www.amazon.com/Developer-Hegemony-Erik-Dietrich/dp/0692866809/ref=as_li_ss_tl?crid=12WJL8YKN8ABZ&keywords=developer+hegemony&qid=1561402203&s=books&sprefix=develolper+he,stripbooks,156&sr=1-1&linkCode=ll1&tag=mainstringarg-20&linkId=65539079ce5c1d91743ee33be91803c1&language=en_US
@@ -54,6 +61,13 @@
   amazon-rating: 4.8
   image: effective_java.jpg
   release-date: January 6, 2018
+- title: Tribe of Mentors
+  author: Tim Ferriss
+  link: https://www.amazon.com/Tribe-Mentors-Short-Advice-World/dp/1328994961/ref=as_li_ss_tl?keywords=tribe+of+mentors&qid=1564690282&s=gateway&sr=8-3&linkCode=ll1&tag=mainstringarg-20&linkId=a1dc2ba97db64439eed1f703011dab59&language=en_US
+  description: From iconic entrepreneurs to elite athletes, from artists to billionaire investors, their short profiles can help you answer life's most challenging questions, achieve extraordinary results, and transform your life.
+  image: tribe_of_mentors.jpg
+  amazon-rating: 4.5
+  release-date: November 21, 2017
 - title: Elon Musk
   author: Ashlee Vance
   link: https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062469673/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=f1dc91fc0241a1fa01017424d4a66316&language=en_US

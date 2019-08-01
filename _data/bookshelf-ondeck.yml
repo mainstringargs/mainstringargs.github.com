@@ -54,3 +54,59 @@
   amazon-rating: 4.4
   image: the_signal_and_the_noise.jpg
   release-date: February 3, 2015
+- title: Streaming Systems
+  author: Tyler Akidau, Slava Chernyak & Reuven Lax
+  link: https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876/ref=as_li_ss_tl?keywords=Streaming+Systems&qid=1564691718&s=gateway&sr=8-2&linkCode=ll1&tag=mainstringarg-20&linkId=3976bbc20ed7fc47509f68ea58a53b19&language=en_US
+  description: Streaming data is a big deal in big data these days. As more and more businesses seek to tame the massive unbounded data sets that pervade our world, streaming systems have finally reached a level of maturity sufficient for mainstream adoption.
+  image: streaming_systems.jpg
+  amazon-rating: 4.5
+  release-date: August 2, 2018
+- title: The Clean Coder
+  author: Robert C. Martin
+  link: https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073/ref=as_li_ss_tl?crid=9YJ9X71LWCXD&keywords=clean+architecture&qid=1564690296&s=gateway&sprefix=clean+arh,aps,155&sr=8-4&linkCode=ll1&tag=mainstringarg-20&linkId=cd98bbe94682a01daca2dcb8852cf52e&language=en_US
+  description: Programmers who endure and succeed amidst swirling uncertainty and nonstop pressure share a common attribute - They care deeply about the practice of creating software. They treat it as a craft. They are professionals.
+  image: the_clean_coder.jpg
+  amazon-rating: 4.3
+  release-date: May 23, 2011
+- title: Principles
+  author: Ray Dalio
+  link: https://www.amazon.com/Principles-Life-Work-Ray-Dalio-ebook/dp/B071CTK28D/ref=as_li_ss_tl?keywords=tribe+of+mentors&qid=1564690282&s=gateway&sr=8-2-spons&psc=1&linkCode=ll1&tag=mainstringarg-20&linkId=30e6f9404360ee62cb70343743b43844&language=en_US
+  description: In 1975, Ray Dalio founded an investment firm, Bridgewater Associates, out of his two-bedroom apartment in New York City. Forty years later, Bridgewater has made more money for its clients than any other hedge fund in history and grown into the fifth most important private company in the United States, according to Fortune magazine.
+  image: principles.jpg
+  amazon-rating: 4.4
+  release-date: September 19, 2017
+- title: Clean Architecture
+  author: Robert C. Martin
+  link: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=as_li_ss_tl?crid=9YJ9X71LWCXD&keywords=clean+architecture&qid=1564690296&s=gateway&sprefix=clean+arh,aps,155&sr=8-1&linkCode=ll1&tag=mainstringarg-20&linkId=d660a50d6cae9d31db54a46b1367c79e&language=en_US
+  description: By applying universal rules of software architecture, you can dramatically improve developer productivity throughout the life of any software system.
+  image: clean_architecture.jpg
+  amazon-rating: 4.3
+  release-date: September 20, 2017
+- title: Jony Ive
+  author: Leander Kahney
+  link: https://www.amazon.com/Jony-Ive-Genius-Greatest-Products/dp/1591847060/ref=as_li_ss_tl?keywords=jony+ive&qid=1564692167&s=books&sr=1-1&linkCode=ll1&tag=mainstringarg-20&linkId=3344ed2d0bc52fc09f1b3f414ef38e01&language=en_US
+  description: Leander Kahney offers a detailed portrait of the English art school student with dyslexia who became the most acclaimed tech designer of his generation.
+  image: jony_ive.jpg
+  amazon-rating: 4.4
+  release-date: October 28, 2014
+- title: Clean Code
+  author: Robert C. Martin
+  link: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0132350882&pd_rd_r=779f34be-10b6-4da1-bee1-315e02822e8a&pd_rd_w=cbXpV&pd_rd_wg=7e0si&pf_rd_p=1c11b7ff-9ffb-4ba6-8036-be1b0afa79bb&pf_rd_r=5DNWQZ8VE6S37W6B11GZ&psc=1&refRID=5DNWQZ8VE6S37W6B11GZ&linkCode=ll1&tag=mainstringarg-20&linkId=c0c7bb9dde941f0956bbee5628952f98&language=en_US
+  description: Best agile practices of cleaning code “on the fly” that will instill within you the values of a software craftsman and make you a better programmer—but only if you work at it.
+  image: clean_code.jpg
+  amazon-rating: 4.3
+  release-date: August 11, 2008
+- title: Trillion Dollar Coach
+  author: Eric Schmidt, Jon Rosenberg & Alan Eagle
+  link: https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268/ref=as_li_ss_tl?keywords=Trillion+Dollar+Coach&qid=1564691462&s=gateway&sr=8-3&linkCode=ll1&tag=mainstringarg-20&linkId=d13396708d127db2fe811b76d279d900&language=en_US
+  description: Bill Campbell played an instrumental role in the growth of several prominent companies, such as Google, Apple, and Intuit, fostering deep relationships with Silicon Valley visionaries, including Steve Jobs, Larry Page, and Eric Schmidt.
+  image: trillion_dollar_coach.jpg
+  amazon-rating: 4.5
+  release-date: April 16, 2019
+- title: Java Concurrency in Practice
+  author: Brian Goetz
+  link: https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=as_li_ss_tl?keywords=concurrency+java&qid=1564692259&s=books&sr=1-1&linkCode=ll1&tag=mainstringarg-20&linkId=7d3ec978c5bdf1337c777e80b2b40a71&language=en_US
+  description: Threads are a fundamental part of the Java platform. As multicore processors become the norm, using concurrency effectively becomes essential for building high-performance applications.
+  image: java_concurrency_in_practice.jpg
+  amazon-rating: 4.7
+  release-date: April 16, 2019
