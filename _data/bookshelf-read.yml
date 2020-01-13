@@ -103,3 +103,10 @@
   amazon-rating: 4.0
   image: superintelligence.jpg
   release-date: May 1, 2016
+- title: Coders
+  author: Clive Thompson
+  link: https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565/ref=as_li_ss_tl?keywords=clean+coder&qid=1561475458&s=books&sr=1-9&linkCode=ll1&tag=mainstringarg-20&linkId=a9db45e07cc3097a593c63a3d4dc0d3c&language=en_US
+  description: Facebook's algorithms shaping the news. Self-driving cars roaming the streets. Revolution on Twitter and romance on Tinder. We live in a world constructed of code--and coders are the ones who built it for us.
+  amazon-rating: 3.9
+  image: coders.jpg
+  release-date: March 26, 2019
