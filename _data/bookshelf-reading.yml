@@ -5,10 +5,10 @@
   amazon-rating: 4.4
   image: microservices_in_action.jpg
   release-date: November 5, 2018
-- title: Coders
-  author: Clive Thompson
-  link: https://www.amazon.com/Coders-Making-Tribe-Remaking-World/dp/0735220565/ref=as_li_ss_tl?keywords=clean+coder&qid=1561475458&s=books&sr=1-9&linkCode=ll1&tag=mainstringarg-20&linkId=a9db45e07cc3097a593c63a3d4dc0d3c&language=en_US
-  description: Facebook's algorithms shaping the news. Self-driving cars roaming the streets. Revolution on Twitter and romance on Tinder. We live in a world constructed of code--and coders are the ones who built it for us.
-  amazon-rating: 3.9
-  image: coders.jpg
-  release-date: March 26, 2019
+- title: The DevOps Handbook
+  author: Gene Kim, Jez Humble & Patrick Debois
+  link: https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=ba19b9398f4fd980ef6499750b3f9664&language=en_US
+  description: More than ever, the effective management of technology is critical for business competitiveness. For decades, technology leaders have struggled to balance agility, reliability, and security. The consequences of failure have never been greater―whether it's the healthcare.gov debacle, cardholder data breaches, or missing the boat with Big Data in the cloud.
+  amazon-rating: 4.5
+  image: the_devops_handbook.jpg
+  release-date: October 6, 2016
