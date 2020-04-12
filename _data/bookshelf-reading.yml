@@ -5,13 +5,6 @@
   amazon-rating: 4.4
   image: microservices_in_action.jpg
   release-date: November 5, 2018
-- title: The DevOps Handbook
-  author: Gene Kim, Jez Humble & Patrick Debois
-  link: https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=ba19b9398f4fd980ef6499750b3f9664&language=en_US
-  description: More than ever, the effective management of technology is critical for business competitiveness. For decades, technology leaders have struggled to balance agility, reliability, and security. The consequences of failure have never been greater―whether it's the healthcare.gov debacle, cardholder data breaches, or missing the boat with Big Data in the cloud.
-  amazon-rating: 4.5
-  image: the_devops_handbook.jpg
-  release-date: October 6, 2016
 - title: The Tipping Point
   author: Malcolm Gladwell
   link: https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624/ref=nodl_
