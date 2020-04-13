@@ -1,10 +1,3 @@
-- title: Microservices in Action
-  author: Morgan Bruce & Paulo A. Pereira
-  link: https://www.amazon.com/Microservices-Action-Morgan-Bruce/dp/1617294454/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=74fa14a366397e614b1f8916f01d2464&language=en_US
-  description: Microservices in Action is a practical book about building and deploying microservice-based applications. Written for developers and architects with a solid grasp of service-oriented development, it tackles the challenge of putting microservices into production.
-  amazon-rating: 4.4
-  image: microservices_in_action.jpg
-  release-date: November 5, 2018
 - title: The Tipping Point
   author: Malcolm Gladwell
   link: https://www.amazon.com/Tipping-Point-Little-Things-Difference/dp/0316346624/ref=nodl_
