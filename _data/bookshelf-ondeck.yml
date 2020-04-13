@@ -1,3 +1,10 @@
+- title: Microservices in Action
+  author: Morgan Bruce & Paulo A. Pereira
+  link: https://www.amazon.com/Microservices-Action-Morgan-Bruce/dp/1617294454/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=74fa14a366397e614b1f8916f01d2464&language=en_US
+  description: Microservices in Action is a practical book about building and deploying microservice-based applications. Written for developers and architects with a solid grasp of service-oriented development, it tackles the challenge of putting microservices into production.
+  amazon-rating: 4.4
+  image: microservices_in_action.jpg
+  release-date: November 5, 2018
 - title: Weapons of Math Destruction
   author: Cathy O'Neil
   link: https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=e04f1e235dca487c6ea2eaf6050243d1&language=en_US
