@@ -5,3 +5,10 @@
   amazon-rating: 4.5
   image: hands_on_microservices_with_spring_boot_and_spring_cloud.jpg
   release-date: September 20, 2019
+- title: Algorithms To Live By
+  author: Brian Christian & Tom Griffiths
+  link: https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=7e5744bd4b352bd2f03d2a8880d89001&language=en_US
+  description: A fascinating exploration of how insights from computer algorithms can be applied to our everyday lives, helping to solve common decision-making problems and illuminate the workings of the human mind
+  amazon-rating: 4.5
+  image: algorithms_to_live_by.jpg
+  release-date: April 19, 2016
