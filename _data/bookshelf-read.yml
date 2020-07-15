@@ -145,3 +145,10 @@
   amazon-rating: 4.5
   image: algorithms_to_live_by.jpg
   release-date: April 19, 2016
+- title: Flash Crash
+  author: Liam Vaughan
+  link: https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654
+  description: On May 6, 2010, financial markets around the world tumbled simultaneously and without warning. In the span of 5 minutes, a trillion dollars of valuation was lost. The Flash Crash, as it became known, represented what was then the fastest drop in market history.
+  amazon-rating: 4.9
+  image: flash_crash.jpg
+  release-date: May 12, 2020
