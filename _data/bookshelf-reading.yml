@@ -5,10 +5,10 @@
   amazon-rating: 4.5
   image: hands_on_microservices_with_spring_boot_and_spring_cloud.jpg
   release-date: September 20, 2019
-- title: Flash Crash
-  author: Liam Vaughan
-  link: https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654
-  description: On May 6, 2010, financial markets around the world tumbled simultaneously and without warning. In the span of 5 minutes, a trillion dollars of valuation was lost. The Flash Crash, as it became known, represented what was then the fastest drop in market history.
-  amazon-rating: 4.9
-  image: flash_crash.jpg
-  release-date: May 12, 2020
+- title: Blink
+  author: Magnus Larsson
+  link: https://www.amazon.com/Blink-Power-Thinking-Without/dp/0316010669
+  description: Blink is a book about how we think without thinking, about choices that seem to be made in an instant-in the blink of an eye-that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error?
+  amazon-rating: 4.4
+  image: blink.jpg
+  release-date: April 3, 2007
