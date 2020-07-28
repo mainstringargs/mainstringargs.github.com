@@ -8,7 +8,7 @@
 - title: A Philosophy of Software Design
   author: John Ousterhout
   link: https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201
-  description:  This book addresses the topic of software design: how to decompose complex software systems into modules (such as classes and methods) that can be implemented relatively independently. The book first introduces the fundamental problem in software design, which is managing complexity.
+  description:  This book addresses the topic of software design -- how to decompose complex software systems into modules (such as classes and methods) that can be implemented relatively independently. The book first introduces the fundamental problem in software design, which is managing complexity.
   amazon-rating: 4.5
   image: a_philosophy_of_software_design.jpg
   release-date: April 6, 2018
