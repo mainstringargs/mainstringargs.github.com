@@ -5,10 +5,10 @@
   amazon-rating: 4.5
   image: hands_on_microservices_with_spring_boot_and_spring_cloud.jpg
   release-date: September 20, 2019
-- title: The Innovators
-  author: Walter Isaacson
-  link: https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution-ebook/dp/B00JGAS65Q/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mainstringarg-20&linkId=90666c1027f8340593de990426030c4d&language=en_US
-  description: The Innovators is a masterly saga of collaborative genius destined to be the standard history of the digital revolution—and an indispensable guide to how innovation really happens. Isaacson begins the adventure with Ada Lovelace
-  amazon-rating: 4.5
-  image: the_innovators.jpg
-  release-date: October 7, 2014
+- title: Thew New New Thing
+  author: Michael Lewis
+  link: https://www.amazon.com/dp/0393347818/ref=reader_auth_dp
+  description:  In the weird glow of the dying millennium, Michael Lewis set out on a safari through Silicon Valley to find the world’s most important technology entrepreneur. He found this in Jim Clark, a man whose achievements include the founding of three separate billion-dollar companies
+  amazon-rating: 4.4
+  image: thew_new_new_thing.jpg
+  release-date: January 6, 2014
