@@ -5,8 +5,8 @@ description: Portfolio for Mark Cloutier
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: main(String[] args)
-user_description: A Software Engineer that loves a good challenge.
+username: Mark Cloutier
+user_description: A Full Stack Software Engineer that loves a good challenge.
 user_title: Full Stack Software Engineer
 emailaddress: mark.l.cloutier@gmail.com
 #twitter_username: lorem_ipsum
