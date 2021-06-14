@@ -1,19 +1,19 @@
 # Site settings
-title: Portfolio for main(String[] args)
-description: Portfolio for main(String[] args)
+title: Portfolio for Mark Cloutier
+description: Portfolio for Mark Cloutier
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: main(String[] args)
-user_description: A Software Developer that loves a good challenge.
-user_title: Software Developer
-emailaddress: mainstringargs@users.noreply.github.com
+user_description: A Software Engineer that loves a good challenge.
+user_title: Full Stack Software Engineer
+emailaddress: mark.l.cloutier@gmail.com
 #twitter_username: lorem_ipsum
 resume-url:  tbd
 github-url:  https://github.com/mainstringargs
 stackoverflow-url: https://stackoverflow.com/users/33863/mainstringargs?tab=profile
-linkedin-url: http://linkedin.com
+linkedin-url: https://www.linkedin.com/in/mark-cloutier-180a7910
 
 baseBookshelfUrl: /bookshelf-data
 
